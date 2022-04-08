@@ -1,0 +1,4 @@
+{
+    "board": "arduino:mbed_nano:nano33ble",
+    "sketch": "Pressure_Sensor/Pressure_Sensor_V1/Pressure_Sensor_V1.ino"
+}
