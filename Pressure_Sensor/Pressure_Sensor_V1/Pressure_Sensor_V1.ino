@@ -42,4 +42,3 @@ void loop() {
  // }
 
 }
-//https://github.com/grboehringer/prostheticKSU.git
